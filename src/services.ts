@@ -8,4 +8,5 @@ export interface Service {
 export const services: Service[] = [
   { name: "Portainer", url: "https://dock.matejhoz.com", description: "Container management", icon: "🐳" },
   { name: "Gitea", url: "https://gitea.matejhoz.com", description: "Git hosting", icon: "☕" },
+  { name: "CRSandbox", url: "https://sandbox.create-rington.com", description: "Sandbox environment", icon: "🧪" },
 ];
